@@ -1,0 +1,33 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "A comprehensive task management app built with React Native and Expo featuring local storage, search, filtering, and priority management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "task-manager",
+    "todo",
+    "productivity",
+    "mobile-app"
+  ],
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.4",
+    "@react-native-async-storage/async-storage": "^2.1.0",
+    "@react-native-community/datetimepicker": "^8.4.2",
+    "expo": "~53.0.20",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
