@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager
 
 A React Native task management application built with Expo, featuring local storage, smart sorting, and intuitive task organization.
@@ -78,3 +79,7 @@ TaskManager/
 ```
 
 Built with modern React Native practices and clean code principles. 
+=======
+# TaskManager
+Task manager React Native
+>>>>>>> 73f4d3848220dc6f82757c1f4a13c19b9f615d52
